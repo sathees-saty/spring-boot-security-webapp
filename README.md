@@ -18,4 +18,5 @@ Type http://localhost:8080/ and access the web app
 
 **Architecture:
 **
-![Uploading Spring-Security-Architecture.jpg…]()
+![Spring-Security-Architecture](https://github.com/sathees-saty/spring-boot-security-webapp/assets/65384711/b1241d1d-270d-4b89-b02b-214ed4e98a31)
+
